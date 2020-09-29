@@ -191,13 +191,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/110058
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="187" tvg-name="", USA: LOGO FHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/110057
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="bet.jams.us" tvg-name="bet.jams.us", US: BET JAMS | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="213" tvg-name="bet.jams.us", US: BET JAMS | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/80738
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="antennatv.us" tvg-name="antennatv.us", US: ANTENNA TV | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="1515" tvg-name="antennatv.us", US: ANTENNA TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/80737
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="starttv.us" tvg-name="starttv.us", US: START TV | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="starttv.us", US: START TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/80736
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: TASTEMADE | HD*
@@ -206,13 +206,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/80734
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="outsidetv.us" tvg-name="outsidetv.us", US: OUTSIDE TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/80733
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="discoverylife.us" tvg-name="discoverylife.us", US: DISCOVERY LIFE | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="161" tvg-name="discoverylife.us", US: DISCOVERY LIFE | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67442
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: AWE | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="169" tvg-name="", US: AWE | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67441
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="aspire.us" tvg-name="aspire.us", US: ASPIRE TV | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="272" tvg-name="aspire.us", US: ASPIRE TV | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67440
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: Z CLASSIC | HD
@@ -224,7 +224,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67437
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: WOLF FAMILY TV | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67436
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="turnerclassicmovies.us" tvg-name="turnerclassicmovies.us", US: TURNER CLASSIC MOVIES | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="230" tvg-name="turnerclassicmovies.us", US: TURNER CLASSIC MOVIES | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67435
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: TULALIP TV | HD
@@ -236,31 +236,31 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67432
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="sony.movie.us" tvg-name="sony.movie.us", US: SONY MOVIE CHANNEL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67431
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: SNY | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="96" tvg-name="", US: SNY | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67430
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: Smithsonian Channel (WEST) | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="134" tvg-name="", US: Smithsonian Channel (WEST) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67429
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: SMITHSONIAN (EAST) | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="634" tvg-name="", US: SMITHSONIAN (EAST) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67428
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: SMART LIFESTYLE TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67427
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="showtimewomen.us" tvg-name="showtimewomen.us", US: SHOWTIME WOMEN | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="375" tvg-name="showtimewomen.us", US: SHOWTIME WOMEN | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67426
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="showtimeshowcase.us" tvg-name="showtimeshowcase.us", US: SHOWTIME SHOWCASE | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="367" tvg-name="showtimeshowcase.us", US: SHOWTIME SHOWCASE | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67425
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="showtimenext.us" tvg-name="showtimenext.us", US: SHOWTIME NEXT | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="378" tvg-name="showtimenext.us", US: SHOWTIME NEXT | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67424
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="rshowtimefamilyzone.us" tvg-name="rshowtimefamilyzone.us", US: SHOWTIME FAMILY ZONE | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="379" tvg-name="rshowtimefamilyzone.us", US: SHOWTIME FAMILY ZONE | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67423
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="showtimebeyond.us" tvg-name="showtimebeyond.us", US: SHOWTIME BEYOND | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="371" tvg-name="showtimebeyond.us", US: SHOWTIME BEYOND | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67422
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: SCREAMFEST | HD
@@ -272,37 +272,37 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67419
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: RIGHT NOW TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67418
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="ride.us" tvg-name="ride.us", US: RIDE TV | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="635" tvg-name="ride.us", US: RIDE TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67417
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="rfd.us" tvg-name="rfd.us", US: RFD-TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67416
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="revolt.us" tvg-name="revolt.us", US: REVOLT | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="726" tvg-name="revolt.us", US: REVOLT | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67415
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: REVELATION TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67414
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="retroplex.us" tvg-name="retroplex.us", US: RETRO PLEX | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="349" tvg-name="retroplex.us", US: RETRO PLEX | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67413
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: REELZ | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="692" tvg-name="", US: REELZ | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67412
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: RADIOU TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67411
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="qvc.us" tvg-name="qvc.us", US: QVC | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="150" tvg-name="qvc.us", US: QVC | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67410
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="qvc2.us" tvg-name="qvc2.us", US: QVC 2 | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="653" tvg-name="qvc2.us", US: QVC 2 | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67409
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="qubo.us" tvg-name="qubo.us", US: QUBO | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67408
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: POP | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="194" tvg-name="", US: POP | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67406
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: PIXL | HD
@@ -317,28 +317,28 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67403
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: NRB TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67400
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="mtv.u.us" tvg-name="mtv.u.us", US: MTV U | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="212" tvg-name="mtv.u.us", US: MTV U | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67389
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="mtv2.us" tvg-name="mtv2.us", US: MTV 2 | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="211" tvg-name="mtv2.us", US: MTV 2 | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67388
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="movieplex.us" tvg-name="movieplex.us", US: MOVIE PLEX | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="movieplex.us", US: MOVIE PLEX | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67382
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="motor.trend.us" tvg-name="motor.trend.us", US: MOTORTREND | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="631" tvg-name="motor.trend.us", US: MOTORTREND | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67381
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: MOBCRUSH | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67380
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: MGM SCI-FI | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="744" tvg-name="", US: MGM SCI-FI | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67378
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="mavtv.us" tvg-name="mavtv.us", US: MAV TV | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="810" tvg-name="mavtv.us", US: MAV TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67377
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: LAW AND CRIME | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="678" tvg-name="", US: LAW AND CRIME | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67371
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: LATIN TeleXitos | SD
@@ -359,13 +359,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67366
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: KBCW TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67365
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="insp.us" tvg-name="insp.us", US: INSP | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="286 insp" tvg-name="insp.us", US: INSP | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67364
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HSN | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="151" tvg-name="", US: HSN | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67363
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="hsn.2.us" tvg-name="hsn.2.us", US: HSN 2 | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="654" tvg-name="hsn.2.us", US: HSN 2 | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67362
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HOUSTON TELEVISION | HD
@@ -374,7 +374,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67361
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HOCHANDA TV | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67359
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HNS 2 | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="654" tvg-name="", US: HNS 2 | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67358
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HEROES AND ICONS | SD
@@ -383,10 +383,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67356
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: HEARTLAND | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67355
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="hdnet.movies.us" tvg-name="hdnet.movies.us", US: HDNET MOVIES | UHD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="746" tvg-name="hdnet.movies.us", US: HDNET MOVIES | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67354
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="hdnet.movies.us" tvg-name="hdnet.movies.us", US: HDNET MOVIES | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="746" tvg-name="hdnet.movies.us", US: HDNET MOVIES | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67353
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: GRIT TV | SD
@@ -398,13 +398,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67351
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: GREENBELT TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67350
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="greatamericancountry.us" tvg-name="greatamericancountry.us", US: GREAT AMERICAN COUNTRY | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="160" tvg-name="greatamericancountry.us", US: GREAT AMERICAN COUNTRY | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67349
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="folk.us" tvg-name="folk.us", US: FOLK TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67348
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: FILMRISE MOVIES | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="1691" tvg-name="", US: FILMRISE MOVIES | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67346
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: FILMRISE FAMILY | HD
@@ -428,7 +428,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/67340
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="" tvg-name="", US: ET LIVE | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67339
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="epix.hits.us" tvg-name="epix.hits.us", US: EPIX HITS | HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="395" tvg-name="epix.hits.us", US: EPIX HITS | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/67337
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="US - Entertainment" tvg-id="epixdrivein.us" tvg-name="epixdrivein.us", US: EPIX DRIVE IN | HD
