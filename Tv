@@ -1183,3 +1183,6 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/27169
 
 #EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2015/12/smithsonian-channel-logo-lrg-clr-600x161.jpg" group-title="US - Entertainment" tvg-id="smithsonianchannel.us" tvg-name="smithsonianchannel.us", USA: SMITHSONIAN CHANNEL
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/29586
+
+#ENTINF:- tvg-logo="https:/www.nfl.com NFL Network 1080i group-title="US - Entertainment" tvg-id="88" tvg-name="NFL Network", USA: NFL Network
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/5726
