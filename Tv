@@ -1308,3 +1308,25 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/8532
 
 #EXTINF:-1 tvg-logo="http://clipart-library.com/new_gallery/106-1064846_disney-logo-png-hd-disney-channel-logo-2018.png" group-title="US - Kids" tvg-id="disneychannel.us" tvg-name="disneychannel.us", USA : Disney HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/17813
+
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Sports" tvg-id="77" tvg-name="", USA: 
+ESPN +
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/111583
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Sports" tvg-id="73" tvg-name="", USA: 
+USA: ESPN FHD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/110065
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Sports" tvg-id="72" tvg-name="", USA: 
+USA: ESPN News FHD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/110064
+
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Sports" tvg-id="74" tvg-name="", USA: 
+US: ESPN 2 HD 1080P
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/8580
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="US - Sports" tvg-id="70" tvg-name="", USA: 
+US: ESPN HD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/129
